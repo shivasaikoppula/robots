@@ -1,0 +1,14 @@
+robot-api-express/
+├─ package.json
+├─ Dockerfile
+├─ README.md
+├─ .env.example
+├─ server.js               
+├─ db.js                     
+├─ middleware/
+│  └─ auth.js                
+├─ routes/
+│  ├─ robots.js             
+│  └─ logs.js               
+└─ data/
+   └─ robots.sqlite          
